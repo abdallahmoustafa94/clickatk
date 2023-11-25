@@ -1,0 +1,22 @@
+{
+  "address": "لوران، الاسكندرية، مصر",
+  "phone": "+031 5689 89 98",
+  "email": "info@clickatk.com",
+  "services": [
+    { "link": "#", "title": "تحليل البيانات" },
+    { "link": "#", "title": "استراتيجية المحتوى" },
+    { "link": "#", "title": "الحماية من القرصنة" },
+    { "link": "#", "title": "وسائل التواصل الاجتماعي" },
+    { "link": "#", "title": "تصميم وتطوير المواقع الإلكترونية" },
+    { "link": "#", "title": "اعلانات جوجل وفيسبوك" }
+  ],
+  "information": [
+    { "link": "/rtl-page-about", "title": "من نحن" },
+    { "link": "#", "title": "المستثمرون" },
+    { "link": "/rtl-page-blog", "title": "المدونة" },
+    { "link": "/rtl-page-contact", "title": "اتصل بنا" },
+    { "link": "/rtl-page-about", "title": "كيف نعمل" },
+    { "link": "#", "title": "خطة الاسعار" },
+    { "link": "#", "title": "اخبار كوفيد" }
+  ]
+}
